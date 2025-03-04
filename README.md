@@ -5,7 +5,7 @@ Welcome to my corner of the internet — where code meets caffeine, and ideas tu
 ### 🧑‍💻 About Me
 
 💻 Full-stack explorer (with a soft spot for **JavaScript**, both front-end and back-end).  
-⚡ Obsessed with building **clean UIs** that don’t just work — they feel right.  
+⚡ Obsessed with building **clean UIs** that don’t just work, they feel right.  
 🤖 Currently working on a **Doctor AI Bot** to save you from WebMD-induced anxiety.
 
 ### ⚒️ My Toolbox
