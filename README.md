@@ -22,7 +22,7 @@ You’ll probably catch me:
 - 🏓 Playing a game of **paddle** (because cardio needs a purpose)  
 - 🔥 Sweating it out in the **sauna** (gotta detox all that screen time)  
 - 🌊 Finding excuses to be outside — balancing all the screen-staring with some real-world pixels.
-- 🤯 Or maybe... just aggressively googling **how to send a TUF** (because some things refuse to make sense no matter how good you are)
+- 🤯 Or maybe... just aggressively googling **how to centre a div** 
 
 ### 📬 Let’s Connect
 
