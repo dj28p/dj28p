@@ -1,42 +1,137 @@
-# Hey there! 👋
+# Hi, I'm Dillan Naude 👋
 
-Welcome to my corner of the internet — where code meets caffeine, and ideas turn into bugs (before they turn into features 🚀).
+## IT Graduate | Network Engineering | DevNet | Network Automation
 
-### 🧑‍💻 About Me
+I'm an IT graduate based in Cape Town, South Africa, with a passion for building reliable infrastructure, automating networks, and solving technical problems.
 
-💻 Full-stack explorer (with a soft spot for **JavaScript**, both front-end and back-end).  
-⚡ Obsessed with building **clean UIs** that don’t just work, they feel right.  
-🤖 Currently working on a **Doctor AI Bot** to save you from WebMD-induced anxiety.
+I'm particularly interested in the intersection of networking and software development—using code to automate repetitive tasks, improve network operations, and build scalable infrastructure.
 
-### ⚒️ My Toolbox
+Currently I'm focused on growing my skills in:
 
-- Front-end: **React**, **Next.js**, and whatever else the cool kids are using.
-- Back-end: **Node.js**, Express — basically anything that lets me build APIs with flair.
-- Databases: MongoDB (because NoSQL is a vibe), and a sprinkle of SQL when necessary.
-- Tools & Stuff: **GitHub**, **Vercel**, **Figma**, and my ever-growing collection of Stack Overflow bookmarks.
-
-### 🌍 When I’m not coding...
-
-You’ll probably catch me:
-
-- 🏓 Playing a game of **paddle** (because cardio needs a purpose)  
-- 🔥 Sweating it out in the **sauna** (gotta detox all that screen time)  
-- 🌊 Finding excuses to be outside — balancing all the screen-staring with some real-world pixels.
-- 🤯 Or maybe... just aggressively googling **how to centre a div** 
-
-### 📬 Let’s Connect
-
-If you’re into creative projects, random side quests, or just want to nerd out over cool tech — hit me up!
+- 🌐 Enterprise Networking
+- 🤖 Network Automation
+- 🐍 Python for Infrastructure
+- ☁️ Cloud Networking
+- ⚙️ DevNet Technologies
+- 🔒 Network Security
 
 ---
 
-### Bonus
+## 🚀 Current Focus
 
-If you want some fun icons or badges (like showing off your favorite languages/tools), you can add something like this too:
+- Learning advanced Python for network automation
+- Building automation tools using APIs
+- Exploring Cisco DevNet technologies
+- Studying networking concepts beyond the CCNA
+- Developing infrastructure and networking projects
 
-```md
-### 🛠️ Languages & Tools
+---
+
+## 💼 Technical Skills
+
+### Networking
+- TCP/IP
+- VLANs
+- Routing & Switching
+- VPN Technologies
+- DNS & DHCP
+- Network Troubleshooting
+- Firewalls
+- MikroTik
+- Fortinet
+
+### Programming
+- Python
+- JavaScript
+- Java
+- HTML
+- CSS
+
+### Web Development
+- React
+- Next.js
+- Node.js
+- Express
+
+### Infrastructure & Tools
+- Linux
+- Git & GitHub
+- Microsoft Intune
+- Microsoft 365
+- Raspberry Pi
+- Docker (Learning)
+- REST APIs
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 Doctor AI Bot
+An AI-powered medical assistant built with modern web technologies.
+
+### 🌐 BetSolutions
+An ASP.NET MVC betting management system featuring authentication, account management, and SQL Server integration.
+---
+
+## 📚 Currently Learning
+
+```text
+✔ Python Automation
+✔ REST APIs
+✔ Network Automation
+✔ Cisco DevNet
+✔ Linux Administration
+✔ Docker
+⬜ Kubernetes
+⬜ Ansible
+⬜ Terraform
+```
+
+---
+
+## 🎯 2026 Goals
+
+- Earn networking and cloud certifications
+- Build a portfolio of network automation projects
+- Contribute to open-source projects
+- Land a Network Engineer or DevNet Engineer role
+- Continue learning infrastructure automation
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dj28p&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dj28p&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠 Technologies
+
+### Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in networking, infrastructure, automation, and open-source projects.
+
+If you're working on something in those areas, I'd love to connect and collaborate.
